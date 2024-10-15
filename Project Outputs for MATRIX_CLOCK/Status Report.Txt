@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MATRIX_CLOCK.PrjPcb]
+   Generated File[MATRIX_CLOCK.TXT]
+   Generated File[MATRIX_CLOCK.LDP]
+   Generated File[MATRIX_CLOCK.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:21:52 AM On 12/10/2022

@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MATRIX_CLOCK.PcbDoc   12/10/2022  10:21:52 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MATRIX_CLOCK.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.249mm)                                           Round             56        PTH        6.59inch (167.51mm)
+T2      11mil (0.269mm)                                           Round             26        PTH        8.86inch (225.01mm)
+T3      16mil (0.399mm)                                           Round             4         PTH        0.38inch (9.64mm)
+T4      30mil (0.762mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T5      39mil (1.001mm)                                           Round             9         PTH        2.82inch (71.71mm)
+T6      47mil (1.199mm)                                           Round             16        PTH        1.62inch (41.24mm)
+T7      51mil (1.3mm)                                             Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              114
+
+Total Processing Time (hh:mm:ss) : 00:00:00
